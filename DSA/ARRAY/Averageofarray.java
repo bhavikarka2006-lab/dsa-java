@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ARRAY;
 import java.util.*;
 
 public class Averageofarray {

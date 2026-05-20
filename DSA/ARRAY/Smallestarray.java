@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ARRAY;
 import java.util.*;
 public class Smallestarray{
     public static void main(String[] args) {
